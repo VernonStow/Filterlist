@@ -2,7 +2,7 @@
 !Based on author's personal experience or reliable public sources.
 !Use at your own risk. No warranty of any kind is made or implied.
 
-!possible tracking
+!Possible tracking
 dntrax.com
 pc1.dntrax.com
 www-cm.com
@@ -13,7 +13,7 @@ nfbal.trackvoluum.com
 pre.footprintpredict.com
 appcloudprotected.com
 
-!redirects
+!Redirects
 click.blendernetworks.com
 pushra.bid
 katie.dntrx.com
@@ -57,3 +57,9 @@ onion1.host
 onion1.pw
 controlek01.asia
 sohorriblein.tk
+
+!Suspicious twitter links
+brightii.com
+promos.media
+bbl.fun
+doodo.fun
