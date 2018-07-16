@@ -1,0 +1,59 @@
+!Supplemental uBO filter to block potentially unwanted sites, updated 180715
+!Based on author's personal experience or reliable public sources.
+!Use at your own risk. No warranty of any kind is made or implied.
+
+!possible tracking
+dntrax.com
+pc1.dntrax.com
+www-cm.com
+support.www-cm.com
+trackgold.net
+go.trackgold.net
+nfbal.trackvoluum.com
+pre.footprintpredict.com
+appcloudprotected.com
+
+!redirects
+click.blendernetworks.com
+pushra.bid
+katie.dntrx.com
+sarah.dntrx.com
+heidi.dntrx.com
+pamela.dntrx.com
+stephanie.dntrx.com
+briana.dntrx.com
+nfniziqm.com
+popads.net
+www.jerkvilla.com
+land.pckeeper.software
+letzonke.com
+iasrv.maha-media.com
+amanda.tnctrx.com
+inclk.com
+p185689.inclk.com
+wkee.reddhon.com
+www.rainbow-networks.com
+critical-system-failure8466.97pn76810224.error-notification-3.club
+yotube.com
+service.skybrock.com
+cdn.glisteningapples.pro
+anrdoezrs.net
+tkqlhce.com
+jdoqocy.com
+dpbolvw.net
+www.bigbangempire.com
+5xz.cxnfifjsespartos.download
+mediapassionate.club
+softreadynow.bigandsafeever4upgrades.win
+iegohnewfrog.net
+digitalprivacyalert.org
+www.digitalprivacyalert.org
+www.v2t5re6z.review
+www.wizard101.com
+
+!Possible ransomware or lockscreens
+neogenomes.com
+onion1.host
+onion1.pw
+controlek01.asia
+sohorriblein.tk
