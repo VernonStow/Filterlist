@@ -1,5 +1,5 @@
 # Filterlist
-Blocklist in uBlock Origin format to filter out potentially unwanted websites, meant to supplement mainstream blocklists.
+Blocklist for uBlock Origin to filter out potentially unwanted websites, meant to supplement mainstream blocklists.
 
 Add to uBO from Control Panel -> My Filters -> Import and Append
 
