@@ -1,5 +1,5 @@
-!Supplemental uBO filter to block potentially unwanted sites, updated 180715
-!Based on author's personal experience or reliable public sources.
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180715
+!Filters are based on author's personal experience or reliable public sources.
 !Use at your own risk. No warranty of any kind is made or implied.
 
 !Tracking
@@ -13,7 +13,7 @@ nfbal.trackvoluum.com
 pre.footprintpredict.com
 appcloudprotected.com
 
-!Redirects to possibly unwanted sites
+!Redirects to possibly harmful sites
 click.blendernetworks.com
 pushra.bid
 katie.dntrx.com
@@ -66,7 +66,7 @@ sohorriblein.tk
 !Uncomment to block suspicious TLD
 !||fun^
 
-!Suspicious sites
+!Suspicious websites
 ||cxnfifjsespartos.download^
 ||mediapassionate.club^
 ||bigandsafeever4upgrades.win^
