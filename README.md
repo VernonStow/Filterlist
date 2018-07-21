@@ -1,5 +1,5 @@
 # Filterlist
-Blocklist for uBlock Origin to block websites possibly involved with spam or malware, meant to supplement mainstream blocklists.
+Blocklist for uBlock Origin to block possible tracking, spam, or malware sites, meant to supplement mainstream blocklists.
 
 Add to uBO from Control Panel -> My Filters -> Import and Append
 
