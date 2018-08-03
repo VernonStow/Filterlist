@@ -1,4 +1,4 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180715
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180803
 !Filters are based on author's personal experience or reliable public sources.
 !Use at your own risk. No warranty of any kind is made or implied.
 
@@ -57,6 +57,7 @@ onion1.host
 onion1.pw
 controlek01.asia
 sohorriblein.tk
+intializing834-info.cf
 
 !Suspicious twitter links
 ||brightii.com^
