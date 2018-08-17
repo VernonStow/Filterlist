@@ -1,6 +1,4 @@
-# Filterlist
-Blocklist for uBlock Origin to block possible tracking, spam, or malware sites, meant to supplement mainstream blocklists.
+# Grayware Filterlist
+Blocklist for suspicious websites involved with possible tracking, spam, or malware; meant to supplement mainstream blocklists.
 
-Add to uBO from Control Panel -> My Filters -> Import and Append
-
-Tested on uBlock Origin with current Firefox and Chromium browsers. May also work with other configurations.
+Tested with uBlock Origin and Nano Adblocker on current Chromium, Firefox, and Palemoon browsers. May also work with other configurations.
