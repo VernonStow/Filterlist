@@ -64,8 +64,9 @@ intializing834-info.cf
 ||promos.media^
 ||bbl.fun^
 ||doodo.fun^
-!Uncomment to block suspicious TLD
-!||fun^
+||boredpanda.fun^
+!Comment out the following if causing site breakage
+||fun^
 
 !Suspicious websites
 ||cxnfifjsespartos.download^
