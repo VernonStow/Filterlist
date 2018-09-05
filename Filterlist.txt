@@ -1,4 +1,4 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180830
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180904
 !Filters are based on author's personal experience or reliable public sources.
 !Use at your own risk. No warranty of any kind is made or implied.
 
@@ -59,14 +59,17 @@ controlek01.asia
 sohorriblein.tk
 intializing834-info.cf
 
-!Suspicious twitter links
+!Twitter fake video spam
 ||brightii.com^
 ||promos.media^
 ||bbl.fun^
 ||doodo.fun^
 ||boredpanda.fun^
+||trending-twitter.video^
+||server.trendii.net^
 !Comment out the following if causing site breakage
 ||fun^
+
 
 !Suspicious websites
 ||cxnfifjsespartos.download^
