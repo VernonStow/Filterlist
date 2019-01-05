@@ -1,4 +1,4 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 180904
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 190104
 !Filters are based on author's personal experience or reliable public sources.
 !Use at your own risk. No warranty of any kind is made or implied.
 
