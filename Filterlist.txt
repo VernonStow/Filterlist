@@ -70,7 +70,6 @@ intializing834-info.cf
 !Comment out the following if causing site breakage
 ||fun^
 
-
 !Suspicious websites
 ||cxnfifjsespartos.download^
 ||mediapassionate.club^
