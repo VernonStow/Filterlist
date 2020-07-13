@@ -1,6 +1,5 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 190104
-!Filters are based on author's personal experience or reliable public sources.
-!Use at your own risk. No warranty of any kind is made or implied.
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 200712
+!Filters are based on author's personal experience or reliable public sources. No warranty of any kind is made or implied.
 
 !Tracking
 dntrax.com
@@ -24,40 +23,37 @@ stephanie.dntrx.com
 briana.dntrx.com
 nfniziqm.com
 popads.net
-www.jerkvilla.com
+||jerkvilla.com^
 land.pckeeper.software
 letzonke.com
 iasrv.maha-media.com
 amanda.tnctrx.com
 inclk.com
-p185689.inclk.com
 wkee.reddhon.com
-www.rainbow-networks.com
-critical-system-failure8466.97pn76810224.error-notification-3.club
+||rainbow-networks.com^
 yotube.com
 service.skybrock.com
 cdn.glisteningapples.pro
 anrdoezrs.net
-tkqlhce.com
 jdoqocy.com
-dpbolvw.net
-www.bigbangempire.com
+||bigbangempire.com^
 5xz.cxnfifjsespartos.download
-mediapassionate.club
-softreadynow.bigandsafeever4upgrades.win
-iegohnewfrog.net
 digitalprivacyalert.org
-www.digitalprivacyalert.org
-www.v2t5re6z.review
-www.wizard101.com
+||v2t5re6z.review^
+||wizard101.com^
 
-!Possible ransomware or lockscreens
+#Ransomware
 neogenomes.com
 onion1.host
 onion1.pw
 controlek01.asia
 sohorriblein.tk
-intializing834-info.cf
+
+#Miner
+t.zer2.com
+down.ackng.com
+lpp.zer2.com
+lpp.ackng.com
 
 !Twitter fake video spam
 ||brightii.com^
