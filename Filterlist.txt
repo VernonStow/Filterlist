@@ -2,8 +2,6 @@
 !Filters are based on author's personal experience or reliable public sources. No warranty of any kind is made or implied.
 
 !Tracking
-dntrax.com
-pc1.dntrax.com
 www-cm.com
 support.www-cm.com
 trackgold.net
@@ -13,14 +11,9 @@ pre.footprintpredict.com
 appcloudprotected.com
 
 !Redirects to possibly harmful sites
+||dntrax.com^
 click.blendernetworks.com
 pushra.bid
-katie.dntrx.com
-sarah.dntrx.com
-heidi.dntrx.com
-pamela.dntrx.com
-stephanie.dntrx.com
-briana.dntrx.com
 nfniziqm.com
 popads.net
 ||jerkvilla.com^
