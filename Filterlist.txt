@@ -1,7 +1,7 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 200712
-!Filters are based on author's personal experience or reliable public sources. No warranty of any kind is made or implied.
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 200808
+!Filters are based on author's personal experience or reliable public sources. No warranty is made or implied.
 
-!Tracking
+#Tracking
 www-cm.com
 support.www-cm.com
 trackgold.net
@@ -10,7 +10,7 @@ nfbal.trackvoluum.com
 pre.footprintpredict.com
 appcloudprotected.com
 
-!Redirects to possibly harmful sites
+#Suspicious redirects
 ||dntrax.com^
 click.blendernetworks.com
 pushra.bid
@@ -30,7 +30,6 @@ cdn.glisteningapples.pro
 anrdoezrs.net
 jdoqocy.com
 ||bigbangempire.com^
-5xz.cxnfifjsespartos.download
 digitalprivacyalert.org
 ||v2t5re6z.review^
 ||wizard101.com^
@@ -48,23 +47,20 @@ down.ackng.com
 lpp.zer2.com
 lpp.ackng.com
 
-!Twitter fake video spam
+#Twitter spam
 ||brightii.com^
 ||promos.media^
-||bbl.fun^
-||doodo.fun^
-||boredpanda.fun^
 ||trending-twitter.video^
 ||server.trendii.net^
-!Comment out the following if causing site breakage
-||fun^
 
-!Suspicious websites
-||cxnfifjsespartos.download^
-||mediapassionate.club^
+#Spam TLDs
+||club^
+||fun^
+||download^
+
+#Suspicious websites
 ||bigandsafeever4upgrades.win^
 ||iegohnewfrog.net^
 ||ecpms.net^
 ||game-geek.pro^
 ||performrefineduberapplication.com^
-
