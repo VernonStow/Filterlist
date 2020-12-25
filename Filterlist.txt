@@ -1,4 +1,4 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 201124
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 201224
 !Filters are based on author's personal experience or reliable public sources. No warranty is made or implied.
 
 #Tracking
@@ -67,3 +67,7 @@ sohorriblein.tk
 #Aggressive ad reinsertion
 ||d1272serve.xyz^
 ||viecisystems.com^
+||dn.srv1272.com^
+creative.admjmp.com##.models-list-wrapper
+||blkditsup.com^
+
