@@ -1,4 +1,4 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 201224
+!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 210220
 !Filters are based on author's personal experience or reliable public sources. No warranty is made or implied.
 
 #Tracking
@@ -52,6 +52,8 @@ sohorriblein.tk
 ||download^
 ||cricket^
 ||win^
+||monster^
+||site^
 
 #Suspicious websites
 ||bigandsafeever4upgrades.win^
