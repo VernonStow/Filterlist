@@ -1,5 +1,9 @@
-!Supplemental uBO filter by Sportsfan to block potentially harmful sites, updated 210220
-!Filters are based on author's personal experience or reliable public sources. No warranty is made or implied.
+# Title: Grayware Blocklist
+# Updated: 21-Feb-20
+# Expires: 1 month (update frequency)
+# Homepage: https://github.com/VernonStow/Filterlist
+# License: Zero-Clause BSD / Free Public License 1.0.0 (0BSD)
+# Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 #Tracking
 www-cm.com
@@ -72,4 +76,3 @@ sohorriblein.tk
 ||dn.srv1272.com^
 creative.admjmp.com##.models-list-wrapper
 ||blkditsup.com^
-
