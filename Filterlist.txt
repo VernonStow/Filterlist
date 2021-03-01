@@ -2,7 +2,7 @@
 # Updated: 2021-Feb-20
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
-# License: Zero-Clause BSD / Free Public License 1.0.0 (0BSD)
+# License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 #Tracking
