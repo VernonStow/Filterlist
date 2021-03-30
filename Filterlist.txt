@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-Mar-27
+# Updated: 2021-Mar-29
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -73,9 +73,10 @@ sohorriblein.tk
 #Aggressive ad reinsertion
 ||d1272serve.xyz^
 ||viecisystems.com^
+trk.viecisystems.com^$important
 ||dn.srv1272.com^
 creative.admjmp.com##.models-list-wrapper
 ||blkditsup.com^
 ||eu-adsrv.rtbsuperhub.com^
-||static-rtb2.firedsp.com/storage/*
-https://bmedia.justservingfiles.net/*.jpg
+||static-rtb2.firedsp.com/storage^
+||bmedia.justservingfiles.net^$image,important
