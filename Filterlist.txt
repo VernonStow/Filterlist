@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-Mar-29
+# Updated: 2021-Apr-17
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -80,3 +80,6 @@ creative.admjmp.com##.models-list-wrapper
 ||eu-adsrv.rtbsuperhub.com^
 ||static-rtb2.firedsp.com/storage^
 ||bmedia.justservingfiles.net^$image,important
+||ads.trafficjunky.net^$important
+||sniffies.com^$important
+
