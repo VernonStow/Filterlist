@@ -57,7 +57,7 @@ sohorriblein.tk
 ||cricket^
 ||win^
 ||monster^
-||site^$domain=~balabolka.site
+||site^$domain=~balabolka.site,~blocklist.site
 
 #Suspicious websites
 ||bigandsafeever4upgrades.win^
