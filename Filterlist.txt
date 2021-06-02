@@ -81,7 +81,7 @@ creative.admjmp.com##.models-list-wrapper
 ||static-rtb2.firedsp.com/storage^
 ||bmedia.justservingfiles.net^$image,important
 ||ads.trafficjunky.net^$important
-||sniffies.com^$important
+||sniffies.com^$third-party,important
 ||www.imglnke.com^$important
 
 
