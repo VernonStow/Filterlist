@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-June-1
+# Updated: 2021-June-2
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
