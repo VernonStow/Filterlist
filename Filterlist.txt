@@ -75,6 +75,7 @@ sohorriblein.tk
 trk.viecisystems.com^$important
 ||dn.srv1272.com^
 creative.admjmp.com##.models-list-wrapper
+creative.admjmp.com##.widget-container_xh-design.widget-container
 ||blkditsup.com^
 ||eu-adsrv.rtbsuperhub.com^
 ||static-rtb2.firedsp.com/storage^
