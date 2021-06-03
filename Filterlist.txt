@@ -8,7 +8,6 @@
 #Tracking
 www-cm.com
 trackgold.net
-go.trackgold.net
 nfbal.trackvoluum.com
 pre.footprintpredict.com
 appcloudprotected.com
