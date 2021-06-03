@@ -57,7 +57,7 @@ sohorriblein.tk
 ||cricket^
 ||win^
 ||monster^
-||site^$domain=~balabolka.site,~blocklist.site
+||site^$domain=~balabolka.site|~blocklist.site
 
 #Suspicious websites
 ||bigandsafeever4upgrades.win^
@@ -84,4 +84,16 @@ creative.admjmp.com##.models-list-wrapper
 ||sniffies.com^$third-party,important
 ||www.imglnke.com^$important
 
-
+#Malware
+#https://github.com/VernonStow/Filterlist/issues/2#issue-909917108
+gogle.net
+quatrefeuillepolonaise.xyz
+extragifis.site
+captcharesolving-universe.com
+captcharesolver.com
+cpmstatsart.com
+instantfwding.com
+gamesex.fun
+goldprize.xyz
+kmip.net
+iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
