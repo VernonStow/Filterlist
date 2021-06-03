@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-June-2
+# Updated: 2021-June-3
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -97,3 +97,4 @@ gamesex.fun
 goldprize.xyz
 kmip.net
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+com-repair-windows.live$all
