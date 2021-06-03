@@ -35,6 +35,10 @@ jdoqocy.com
 digitalprivacyalert.org
 ||v2t5re6z.review^
 ||wizard101.com^
+# Used to infect and redirect websites
+mcloudjs.com$all
+googieapls.com$all
+google-analytisc.co.cc$all
 
 #Ransomware
 neogenomes.com
@@ -68,6 +72,11 @@ sohorriblein.tk
 ||websolvent.me^
 ||pokupatelprav.ru^
 ||trackvoluum.com^
+totalav.com
+# BitCoin scam
+cham-event.com$all
+# Scam domain
+1800support.weebly.com$document
 
 #Aggressive ad reinsertion
 ||d1272serve.xyz^
@@ -98,12 +107,3 @@ goldprize.xyz
 kmip.net
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 com-repair-windows.live$all
-# Used to infect and redirect websites
-mcloudjs.com$all
-googieapls.com$all
-google-analytisc.co.cc$all
-# BitCoin scam
-cham-event.com$all
-# Scam domain
-1800support.weebly.com$document
-
