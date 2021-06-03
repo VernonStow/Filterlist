@@ -72,7 +72,8 @@ sohorriblein.tk
 ||websolvent.me^
 ||pokupatelprav.ru^
 ||trackvoluum.com^
-totalav.com
+#https://malwaretips.com/threads/total-av-is-it-a-scam.80362/
+||totalav.com^
 # BitCoin scam
 cham-event.com$all
 # Scam domain
