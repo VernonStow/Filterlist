@@ -98,3 +98,12 @@ goldprize.xyz
 kmip.net
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 com-repair-windows.live$all
+# Used to infect and redirect websites
+mcloudjs.com$all
+googieapls.com$all
+google-analytisc.co.cc$all
+# BitCoin scam
+cham-event.com$all
+# Scam domain
+1800support.weebly.com$document
+
