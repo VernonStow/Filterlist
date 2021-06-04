@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-June-3
+# Updated: 2021-June-4
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -71,8 +71,6 @@ sohorriblein.tk
 ||inteca-deco.com^
 ||websolvent.me^
 ||pokupatelprav.ru^
-#https://malwaretips.com/threads/total-av-is-it-a-scam.80362/
-||totalav.com^
 # BitCoin scam
 cham-event.com$all
 # Scam domain
@@ -98,7 +96,6 @@ creative.admjmp.com##.widget-container_xh-design.widget-container
 gogle.net
 quatrefeuillepolonaise.xyz
 extragifis.site
-captcharesolving-universe.com
 captcharesolver.com
 cpmstatsart.com
 instantfwding.com
