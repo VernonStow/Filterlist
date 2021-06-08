@@ -71,7 +71,7 @@ sohorriblein.tk
 ||inteca-deco.com^
 ||websolvent.me^
 ||pokupatelprav.ru^
-! https://www.fortiguard.com/webfilter?q=search.logicalrecord.com
+! https://github.com/VernonStow/Filterlist/issues/4
 ||logicalrecord.com$all
 # BitCoin scam
 cham-event.com$all
