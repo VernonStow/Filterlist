@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-June-4
+# Updated: 2021-June-6
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -71,6 +71,8 @@ sohorriblein.tk
 ||inteca-deco.com^
 ||websolvent.me^
 ||pokupatelprav.ru^
+! https://www.fortiguard.com/webfilter?q=search.logicalrecord.com
+||logicalrecord.com$all
 # BitCoin scam
 cham-event.com$all
 # Scam domain
