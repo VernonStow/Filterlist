@@ -77,6 +77,8 @@ sohorriblein.tk
 cham-event.com$all
 # Scam domain
 1800support.weebly.com$all
+!https://github.com/VernonStow/Filterlist/issues/5#issuecomment-859183161
+||joesandbox.com^
 
 #Aggressive ad reinsertion
 ||d1272serve.xyz^
