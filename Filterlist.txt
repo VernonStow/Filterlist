@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-June-19
+# Updated: 2021-June-23
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -54,12 +54,12 @@ sohorriblein.tk
 ||server.trendii.net^
 
 #Spam TLDs
-||club^
-||fun^
-||download^
-||cricket^
-||win^
-||monster^
+||club^$all
+||fun^$all
+||download^$all
+||cricket^$all
+||win^$all
+||monster^$all
 ||site^$domain=~balabolka.site|~blocklist.site|~square.site
 
 #Suspicious websites
