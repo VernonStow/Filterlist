@@ -108,6 +108,5 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 com-repair-windows.live$all
 1flchier.com$all
 #https://www.urlvoid.com/scan/111bjs.com/
-111bjs.com$all
-www.111bjs.com$all
-
+||111bjs.com$all
+||prodownload.live$all
