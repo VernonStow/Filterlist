@@ -110,3 +110,25 @@ com-repair-windows.live$all
 #https://www.urlvoid.com/scan/111bjs.com/
 ||111bjs.com$all
 ||prodownload.live$all
+
+#Magnat reported by talosintelligence.com
+chocolatepuma.casa$all
+430lodsfb.xyz$all
+softstatistic.xyz$all
+hugecarspro.space$all
+burstyourbubble.icu$all
+boogieboom.host$all
+cgi-lineup.website$all
+iisnbnd7723hj.digital$all
+sdcdsujnd555w.digital$all
+stataready.icu$all
+luckydaddy.xyz$all
+adamantbarbellmethod.com$all
+||userauto.space^
+hssubnsx.xyz$all
+0-800-email.com$all
+paydoor.space$all
+430lodsposlok.online$all
+dontbeburrow.space$all
+430lodsposlok.store$all
+maskofmistery.icu$all
