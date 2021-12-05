@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-Dec-02
+# Updated: 2021-Dec-04
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -132,3 +132,6 @@ paydoor.space$all
 dontbeburrow.space$all
 430lodsposlok.store$all
 maskofmistery.icu$all
+
+#Bazar trojan C&C
+||englewoodcarwashh.us^
