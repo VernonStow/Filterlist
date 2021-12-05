@@ -133,5 +133,7 @@ dontbeburrow.space$all
 430lodsposlok.store$all
 maskofmistery.icu$all
 
-#Bazar trojan C&C
+#Bazar trojan
 ||englewoodcarwashh.us^
+complaintsreport2020.gr8.com$all
+app.getresponse.com$all
