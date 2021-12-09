@@ -9,6 +9,15 @@
 ||trackvoluum.com^
 pre.footprintpredict.com
 appcloudprotected.com
+admicro1.vcmedia.vn
+images.revtrax.com
+pof.com
+kiks.yandex.ru
+simg.sinajs.cn
+tv.sohu.com
+
+#Miner
+||ackng.com^
 
 #Suspicious redirects
 ||dntrax.com^
