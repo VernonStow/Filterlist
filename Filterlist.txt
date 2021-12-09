@@ -6,8 +6,6 @@
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 #Tracking
-www-cm.com
-trackgold.net
 ||trackvoluum.com^
 pre.footprintpredict.com
 appcloudprotected.com
@@ -16,24 +14,16 @@ appcloudprotected.com
 ||dntrax.com^
 click.blendernetworks.com
 pushra.bid
-nfniziqm.com
 popads.net
 ||jerkvilla.com^
-land.pckeeper.software
 letzonke.com
-iasrv.maha-media.com
 amanda.tnctrx.com
 inclk.com
-wkee.reddhon.com
 ||rainbow-networks.com^
 yotube.com
-service.skybrock.com
-cdn.glisteningapples.pro
-anrdoezrs.net
-jdoqocy.com
+skybrock.com
 ||bigbangempire.com^
 digitalprivacyalert.org
-||v2t5re6z.review^
 ||wizard101.com^
 # Used to infect and redirect websites
 mcloudjs.com$all
@@ -44,8 +34,6 @@ google-analytisc.co.cc$all
 neogenomes.com
 onion1.host
 onion1.pw
-controlek01.asia
-sohorriblein.tk
 
 #Twitter spam
 ||brightii.com^
