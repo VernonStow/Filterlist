@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-Dec-09
+# Updated: 2021-Dec-10
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -65,6 +65,8 @@ onion1.pw
 cham-event.com$all
 # Scam domain
 1800support.weebly.com$all
+#Scareware fake AV
+||centralheat.me^
 
 #Aggressive ad reinsertion
 ||d1272serve.xyz^
