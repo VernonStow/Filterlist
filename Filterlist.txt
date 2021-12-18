@@ -41,8 +41,6 @@ google-analytisc.co.cc$all
 
 #Ransomware
 neogenomes.com
-onion1.host
-onion1.pw
 
 #Twitter spam
 ||brightii.com^
@@ -103,7 +101,6 @@ com-repair-windows.live$all
 
 #Magnat reported by talosintelligence.com
 chocolatepuma.casa$all
-430lodsfb.xyz$all
 softstatistic.xyz$all
 hugecarspro.space$all
 burstyourbubble.icu$all
