@@ -97,6 +97,8 @@ com-repair-windows.live$all
 #https://www.urlvoid.com/scan/111bjs.com/
 ||111bjs.com$all
 ||prodownload.live$all
+#https://www.urlvoid.com/scan/proxfree.com/
+||proxfree.com$all
 
 #Magnat reported by talosintelligence.com
 chocolatepuma.casa$all
