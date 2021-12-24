@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2021-Dec-17
+# Updated: 2021-Dec-23
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -11,7 +11,6 @@ pre.footprintpredict.com
 appcloudprotected.com
 admicro1.vcmedia.vn
 images.revtrax.com
-pof.com
 kiks.yandex.ru
 simg.sinajs.cn
 tv.sohu.com
