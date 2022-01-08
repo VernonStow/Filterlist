@@ -105,10 +105,6 @@ com-repair-windows.live$all
 #Magnat reported by talosintelligence.com
 chocolatepuma.casa$all
 softstatistic.xyz$all
-hugecarspro.space$all
-burstyourbubble.icu$all
-boogieboom.host$all
-cgi-lineup.website$all
 iisnbnd7723hj.digital$all
 sdcdsujnd555w.digital$all
 stataready.icu$all
