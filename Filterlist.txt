@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Jan-08
+# Updated: 2022-Jan-14
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -51,7 +51,13 @@ neogenomes.com
 ||cricket^$all
 ||win^$all
 ||monster^$all
-||site^$domain=~balabolka.site|~blocklist.site|~square.site|~third-party.site
+||buzz^$all
+||live^$all
+||icu^$all
+||vip^$all
+||ml^$all
+||tokyo^$all
+||cf^$all
 
 #Suspicious websites
 ||ecpms.net^
