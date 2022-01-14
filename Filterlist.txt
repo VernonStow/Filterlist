@@ -94,15 +94,12 @@ extragifis.site$all
 captcharesolver.com$all
 cpmstatsart.com$all
 instantfwding.com$all
-gamesex.fun$all
 goldprize.xyz$all
 kmip.net$all
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
-com-repair-windows.live$all
 1flchier.com$all
 #https://www.urlvoid.com/scan/111bjs.com/
 ||111bjs.com$all
-||prodownload.live$all
 #https://www.urlvoid.com/scan/proxfree.com/
 ||proxfree.com$all
 ||expresswayautopr.com$all
@@ -113,7 +110,6 @@ chocolatepuma.casa$all
 softstatistic.xyz$all
 iisnbnd7723hj.digital$all
 sdcdsujnd555w.digital$all
-stataready.icu$all
 luckydaddy.xyz$all
 adamantbarbellmethod.com$all
 ||userauto.space^
