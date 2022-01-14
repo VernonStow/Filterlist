@@ -5,6 +5,21 @@
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
+#Spam and malware TLDs
+||club^$all
+||fun^$all
+||download^$all
+||cricket^$all
+||win^$all
+||monster^$all
+||buzz^$all
+||live^$all
+||icu^$all
+||vip^$all
+||ml^$all
+||tokyo^$all
+||cf^$all
+
 #Tracking
 ||trackvoluum.com^
 pre.footprintpredict.com
@@ -43,21 +58,6 @@ neogenomes.com
 
 #Twitter spam
 ||brightii.com^
-
-#Spam TLDs
-||club^$all
-||fun^$all
-||download^$all
-||cricket^$all
-||win^$all
-||monster^$all
-||buzz^$all
-||live^$all
-||icu^$all
-||vip^$all
-||ml^$all
-||tokyo^$all
-||cf^$all
 
 #Suspicious websites
 ||ecpms.net^
