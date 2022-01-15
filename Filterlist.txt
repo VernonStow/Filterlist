@@ -19,6 +19,13 @@
 ||ml^$all
 ||tokyo^$all
 ||cf^$all
+||casa^$all
+||zw^$all
+||bd^$all
+||ke^$all
+||cd^$all
+||bid^$all
+||sbs^$all
 
 #Tracking
 ||trackvoluum.com^
@@ -106,7 +113,6 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||unpleasantconcrete.com$all
 
 #Magnat reported by talosintelligence.com
-chocolatepuma.casa$all
 softstatistic.xyz$all
 iisnbnd7723hj.digital$all
 sdcdsujnd555w.digital$all
