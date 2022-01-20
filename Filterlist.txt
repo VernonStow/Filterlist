@@ -1,11 +1,11 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Jan-14
+# Updated: 2022-Jan-20
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
-#Spam and malware TLDs
+# Spam and malware TLDs
 ||club^$all
 ||fun^$all
 ||download^$all
@@ -27,7 +27,7 @@
 ||bid^$all
 ||sbs^$all
 
-#Tracking
+# Tracking
 ||trackvoluum.com^
 pre.footprintpredict.com
 appcloudprotected.com
@@ -37,10 +37,10 @@ kiks.yandex.ru
 simg.sinajs.cn
 tv.sohu.com
 
-#Miner
+# Miner
 ||ackng.com^
 
-#Suspicious redirects
+# Suspicious redirects
 ||dntrax.com^
 click.blendernetworks.com
 pushra.bid
@@ -55,18 +55,20 @@ skybrock.com
 ||bigbangempire.com^
 digitalprivacyalert.org
 ||wizard101.com^
+||Iyfbodn.com^
+
 # Used to infect and redirect websites
 mcloudjs.com$all
 googieapls.com$all
 google-analytisc.co.cc$all
 
-#Ransomware
+# Ransomware
 neogenomes.com
 
-#Twitter spam
+# Twitter spam
 ||brightii.com^
 
-#Suspicious websites
+# Suspicious websites
 ||ecpms.net^
 ||game-geek.pro^
 ! https://github.com/VernonStow/Filterlist/issues/4
@@ -75,10 +77,10 @@ neogenomes.com
 cham-event.com$all
 # Scam domain
 1800support.weebly.com$all
-#Scareware fake AV
+# Scareware fake AV
 ||centralheat.me^
 
-#Aggressive ad reinsertion
+# Aggressive ad reinsertion
 ||d1272serve.xyz^
 ||viecisystems.com^
 trk.viecisystems.com^$important
@@ -92,8 +94,9 @@ creative.admjmp.com##.widget-container_xh-design.widget-container
 ||ads.trafficjunky.net^$important
 ||sniffies.com^$third-party,important
 ||www.imglnke.com^$important
+||dat.its-up.com^$image,third-party
 
-#Malware
+# Malware
 #https://github.com/VernonStow/Filterlist/issues/2#issue-909917108
 gogle.net$all
 quatrefeuillepolonaise.xyz$all
@@ -112,7 +115,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||expresswayautopr.com$all
 ||unpleasantconcrete.com$all
 
-#Magnat reported by talosintelligence.com
+# Magnat reported by talosintelligence.com
 softstatistic.xyz$all
 iisnbnd7723hj.digital$all
 sdcdsujnd555w.digital$all
@@ -123,7 +126,7 @@ hssubnsx.xyz$all
 0-800-email.com$all
 paydoor.space$all
 
-#Bazar trojan per Fortinet
+# Bazar trojan per Fortinet
 ||englewoodcarwashh.us^
 complaintsreport2020.gr8.com$all
 app.getresponse.com$all
