@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Jan-20
+# Updated: 2022-Jan-23
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -94,7 +94,8 @@ creative.admjmp.com##.widget-container_xh-design.widget-container
 ||ads.trafficjunky.net^$important
 ||sniffies.com^$third-party,important
 ||www.imglnke.com^$important
-||dat.its-up.com^$image,third-party
+||dat.its-up.com/creative/*
+www.adpmbtj.com##video
 
 # Malware
 #https://github.com/VernonStow/Filterlist/issues/2#issue-909917108
