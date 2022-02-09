@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Jan-23
+# Updated: 2022-Feb-09
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -131,3 +131,7 @@ paydoor.space$all
 ||englewoodcarwashh.us^
 complaintsreport2020.gr8.com$all
 app.getresponse.com$all
+
+# Zloader per Sentinel One
+websekir.com$all
+pornofilmspremium.com$all
