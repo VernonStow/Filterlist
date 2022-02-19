@@ -5,7 +5,7 @@
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
-# Spam and malware TLDs
+# Spam and malware TLDs (courtesy Palo Alto Networks)
 ||club^$all
 ||fun^$all
 ||download^$all
@@ -79,6 +79,7 @@ cham-event.com$all
 1800support.weebly.com$all
 # Scareware fake AV
 ||centralheat.me^
+||yugava.xyz^
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
