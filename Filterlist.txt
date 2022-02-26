@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Feb-18
+# Updated: 2022-Feb-25
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -26,6 +26,7 @@
 ||cd^$all
 ||bid^$all
 ||sbs^$all
+||cm^$all~hill.cm,nyer.cm
 
 # Tracking
 ||trackvoluum.com^
@@ -136,3 +137,10 @@ app.getresponse.com$all
 # Zloader per Sentinel One
 websekir.com$all
 pornofilmspremium.com$all
+
+# Hermetic Wiper per Zscaler
+||surname192.temp.swtest.ru$all
+||kfctm.online$all
+||my.mondeychamp.xyz$all
+||files-download.infousa.xyz$all
+
