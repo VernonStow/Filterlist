@@ -26,7 +26,7 @@
 ||cd^$all
 ||bid^$all
 ||sbs^$all
-||cm^$all~hill.cm,nyer.cm
+||cm^~hill.cm,nyer.cm
 
 # Tracking
 ||trackvoluum.com^
