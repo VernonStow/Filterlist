@@ -13,7 +13,7 @@
 ||win^$all
 ||monster^$all
 ||buzz^$all
-||live^$all,domain~lura.live
+||live^~lura.live
 ||icu^$all
 ||vip^$all
 ||ml^$all
@@ -28,7 +28,7 @@
 ||sbs^$all
 ||top^$all
 ||gg^$all
-||cm^$all,domain~hill.cm,nyer.cm
+||cm^~hill.cm,nyer.cm
 
 # Tracking
 ||trackvoluum.com^
