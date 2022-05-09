@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Apr-30
+# Updated: 2022-May-08
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -13,7 +13,7 @@
 ||win^$all
 ||monster^$all
 ||buzz^$all
-||live^~lura.live
+||live^$all,domain=~lura.live
 ||icu^$all
 ||vip^$all
 ||ml^$all
@@ -28,7 +28,7 @@
 ||sbs^$all
 ||top^$all
 ||gg^$all
-||cm^~hill.cm,nyer.cm
+||cm^$all,domain=~hill.cm,nyer.cm
 
 # Tracking
 ||trackvoluum.com^
