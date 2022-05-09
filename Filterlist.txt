@@ -28,7 +28,7 @@
 ||sbs^$all
 ||top^$all
 ||gg^$all
-||cm^$all,domain=~hill.cm,domain=nyer.cm
+||cm^$all,domain=~hill.cm,$all,domain=~nyer.cm
 
 # Tracking
 ||trackvoluum.com^
