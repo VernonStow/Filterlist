@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-May-22
+# Updated: 2022-June-1
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -67,6 +67,8 @@ google-analytisc.co.cc$all
 
 # Ransomware
 neogenomes.com
+# Follina
+||coolrat.xyz$all
 
 # Twitter spam
 ||brightii.com^
