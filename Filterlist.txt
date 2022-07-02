@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-June-1
+# Updated: 2022-July-2
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -131,13 +131,10 @@ iisnbnd7723hj.digital$all
 sdcdsujnd555w.digital$all
 luckydaddy.xyz$all
 adamantbarbellmethod.com$all
-||userauto.space^
 hssubnsx.xyz$all
 0-800-email.com$all
-paydoor.space$all
 
 # Bazar trojan per Fortinet
-||englewoodcarwashh.us^
 complaintsreport2020.gr8.com$all
 app.getresponse.com$all
 
@@ -146,10 +143,11 @@ websekir.com$all
 pornofilmspremium.com$all
 
 # Hermetic Wiper per Zscaler
-||surname192.temp.swtest.ru$all
 ||kfctm.online$all
 ||my.mondeychamp.xyz$all
-||files-download.infousa.xyz$all
 
 # FFDroider trojan
 ||download.studymathlive.com$all
+
+# Phishing
+||twitter-safeguard-protection.info^
