@@ -13,7 +13,7 @@
 ||win^$all
 ||monster^$all
 ||buzz^$all
-||live^~lura.live
+||live^$all
 ||icu^$all
 ||vip^$all
 ||ml^$all
