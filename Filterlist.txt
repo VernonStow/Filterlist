@@ -1,12 +1,12 @@
 # Title: Grayware Blocklist
-# Updated: 2022-July-2
+# Updated: 2022-July-3
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 # Spam and malware TLDs (courtesy Palo Alto Networks)
-||club^$all
+||club^~mafi.club
 ||fun^$all
 ||download^$all
 ||cricket^$all
