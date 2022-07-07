@@ -1,18 +1,15 @@
 # Title: Grayware Blocklist
-# Updated: 2022-July-3
+# Updated: 2022-July-7
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
-# Spam and malware TLDs (courtesy Palo Alto Networks)
-||club^~mafi.club
+# Spam and malware TLDs (courtesy Spamhaus and SURBL)
+||surf^$all
 ||fun^$all
 ||download^$all
-||cricket^$all
-||win^$all
 ||monster^$all
-||buzz^$all
 ||live^$all
 ||icu^$all
 ||vip^$all
@@ -28,6 +25,13 @@
 ||sbs^$all
 ||top^$all
 ||gg^$all
+||ci^$all
+||gq^$all
+||cn^$all
+||ga^$all
+||tk^$all
+||cam^$all
+||su^$all
 ||cm^~hill.cm,~nyer.cm
 
 # Tracking
@@ -151,3 +155,8 @@ pornofilmspremium.com$all
 
 # Phishing
 ||twitter-safeguard-protection.info^
+
+# Magniber, per 360
+||casbin.info$all
+||flatis.uno$all
+||vocoto.info$all
