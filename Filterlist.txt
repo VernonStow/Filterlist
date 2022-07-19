@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-July-8
+# Updated: 2022-July-19
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -80,6 +80,9 @@ neogenomes.com
 # Suspicious websites
 ||ecpms.net^
 ||game-geek.pro^
+||emsubtitle.com^
+||trendingwp.com^
+||floralrichardapprentice.com$all
 ! https://github.com/VernonStow/Filterlist/issues/4
 ||logicalrecord.com$all
 # BitCoin scam
