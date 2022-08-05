@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-July-19
+# Updated: 2022-Aug-04
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -93,6 +93,7 @@ cham-event.com$all
 ||centralheat.me^
 ||yugava.xyz^
 ||pcprotogo.com^
+||smartopc.xyz^
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
