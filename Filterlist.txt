@@ -1,5 +1,5 @@
 # Title: Grayware Blocklist
-# Updated: 2022-Aug-13
+# Updated: 2022-Aug-24
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -96,6 +96,13 @@ cham-event.com$all
 ||smartopc.xyz^
 ! https://www.pcrisk.com/removal-guides/23744-notification-news-com-ads
 ||notification-news.com^
+
+# Fake search engines
+||puupnewsapp.com$all
+||smartwebfinder.com$all
+||myway.com$all
+||ctcodeinfo.com$all
+||juwakaha.com$all
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
