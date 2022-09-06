@@ -1,3 +1,4 @@
+[uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
 # Updated: 2022-Aug-30
 # Expires: 1 month (update frequency)
