@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2022-Aug-30
+# Updated: 2022-Sep-15
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -96,6 +96,9 @@ cham-event.com$all
 ||smartopc.xyz^
 ! https://www.pcrisk.com/removal-guides/23744-notification-news-com-ads
 ||notification-news.com^
+# Tech support scam per Bleeping Computer
+||ondigitalocean.app^
+||tissatweb.us^
 
 # Fake search engines
 ||puupnewsapp.com$all
@@ -145,6 +148,10 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||langhort.com$all
 ||nitrokod.com$all
 ||intelserviceupdate.com$all
+
+# Typosquatting
+||sniiffies.com^
+||virginatlantc.com^
 
 # Magnat reported by talosintelligence.com
 softstatistic.xyz$all
