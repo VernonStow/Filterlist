@@ -11,27 +11,25 @@
 ||rest^$all
 ||monster^$all
 ||beauty^$all
+||associates^$all
+||cricket^$all
+||financial^$all
+||discount^$all
+||fit^$all
 ||live^$all
+||life^$all
 ||icu^$all
-||ml^$all
 ||tokyo^$all
 ||cf^$all
 ||casa^$all
-||zw^$all
-||bd^$all
-||ke^$all
-||cd^$all
-||bid^$all
-||sbs^$all
-||top^$all
-||gg^$all
 ||ci^$all
+||cyou^$all
+||pw^$all
+||top^$all
 ||gq^$all
 ||cn^$all
 ||ga^$all
 ||tk^$all
-||cam^$all
-||su^$all
 ||cm^~hill.cm,~nyer.cm
 
 # Tracking
