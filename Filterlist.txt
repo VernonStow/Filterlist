@@ -30,7 +30,7 @@
 ||cn^$all
 ||ga^$all
 ||tk^$all
-||cm^$all,domain=~hill.cm,~nyer.cm
+||cm^$all,domain=~hill.cm|~nyer.cm
 
 # Tracking
 ||trackvoluum.com^
