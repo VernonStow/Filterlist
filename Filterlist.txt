@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2022-Oct-04
+# Updated: 2022-Oct-09
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -182,3 +182,9 @@ pornofilmspremium.com$all
 ||casbin.info$all
 ||flatis.uno$all
 ||vocoto.info$all
+
+# Data wiper, per Bleeping Computer
+||nude-girlss.mywire.org
+||sexyphotos.kozow.com
+||sexy-photo.online
+loseyourip.com$all
