@@ -16,7 +16,7 @@
 ||financial^$all
 ||discount^$all
 ||fit^$all
-||live^$alldomain=~lura.live
+||live^$all,domain=~lura.live
 ||life^$all
 ||icu^$all
 ||tokyo^$all
