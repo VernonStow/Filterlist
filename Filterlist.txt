@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2022-Oct-09
+# Updated: 2022-Oct-13
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -182,6 +182,16 @@ pornofilmspremium.com$all
 ||casbin.info$all
 ||flatis.uno$all
 ||vocoto.info$all
+
+# Magniber, per HP
+||totwo.pw$all
+||ittakes.fun$all
+||catat.site$all
+||tinpick.online$all
+||pirlay.fun$all
+||buyaims.online$all
+||orhung.space$all
+||actsred.site$all
 
 # Data wiper, per Bleeping Computer
 ||nude-girlss.mywire.org$all
