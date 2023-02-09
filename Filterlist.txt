@@ -13,7 +13,7 @@
 ||beauty^$all
 ||ml^$all
 ||click^$all
-||live^$all
+||live^$all,domain=~lura.live
 ||fit^$all
 ||life^$all
 ||icu^$all
