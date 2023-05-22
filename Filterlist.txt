@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-May-19
+# Updated: 2023-May-22
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -18,7 +18,6 @@
 ||icu^$all
 ||tokyo^$all
 ||cf^$all
-||link^$all
 ||top^$all
 ||gq^$all
 ||cn^$all
@@ -30,6 +29,8 @@
 ||bar^$all
 ||haus^$all
 ||work^$all
+||boston^$all
+||degree^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
@@ -114,6 +115,8 @@ cham-event.com$all
 ||myway.com$all
 ||ctcodeinfo.com$all
 ||juwakaha.com$all
+||get.thesafersearch.com$all
+||thesafersearch.com$all
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
