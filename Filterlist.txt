@@ -64,6 +64,7 @@ skybrock.com
 digitalprivacyalert.org
 ||wizard101.com^
 ||Iyfbodn.com^
+||hard-configurator.com$all
 
 # Used to infect and redirect websites
 mcloudjs.com$all
@@ -75,7 +76,6 @@ neogenomes.com
 # Follina
 ||coolrat.xyz$all
 ||download-cdn.com$all
-||hard-configurator.com$all
 
 # Twitter spam
 ||brightii.com^
