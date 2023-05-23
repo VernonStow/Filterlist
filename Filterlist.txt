@@ -25,12 +25,12 @@
 ||tk^$all
 ||cm^$all,domain=~hill.cm|~nyer.cm
 ||uno^$all
-||okinawa^$all
-||bar^$all
-||haus^$all
-||work^$all
 ||boston^$all
 ||degree^$all
+||name^$all
+||wtf^$all
+||wiki^$all
+||live^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
@@ -75,6 +75,7 @@ neogenomes.com
 # Follina
 ||coolrat.xyz$all
 ||download-cdn.com$all
+||hard-configurator.com$all
 
 # Twitter spam
 ||brightii.com^
