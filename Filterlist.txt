@@ -30,7 +30,6 @@
 ||name^$all
 ||wtf^$all
 ||wiki^$all
-||live^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
