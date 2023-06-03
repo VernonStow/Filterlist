@@ -118,6 +118,7 @@ cham-event.com$all
 ||get.thesafersearch.com$all
 ||thesafersearch.com$all
 ||serasearchtop.com$all
+||tryimv3srvsts.com$all
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
