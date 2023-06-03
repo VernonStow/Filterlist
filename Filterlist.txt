@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-May-22
+# Updated: 2023-Jun-02
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -117,6 +117,7 @@ cham-event.com$all
 ||juwakaha.com$all
 ||get.thesafersearch.com$all
 ||thesafersearch.com$all
+||serasearchtop.com$all
 
 # Aggressive ad reinsertion
 ||d1272serve.xyz^
