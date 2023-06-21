@@ -28,8 +28,14 @@
 ||boston^$all
 ||degree^$all
 ||name^$all
-||wtf^$all,domain=~foss.wtf
+||wtf^$all,domain=~foss.wtf|~deutsche.wtf
 ||wiki^$all
+||cyou^$all
+||fyi^$all
+||haus^$all
+||dance^$all
+||hair^$all
+
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
