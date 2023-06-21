@@ -28,7 +28,7 @@
 ||boston^$all
 ||degree^$all
 ||name^$all
-||wtf^$all,domain=~foss.wtf|~deutsche.wtf
+||wtf^$all,domain=~foss.wtf|~deutsch.wtf
 ||wiki^$all
 ||cyou^$all
 ||fyi^$all
