@@ -11,7 +11,7 @@
 ||rest^$all
 ||monster^$all
 ||beauty^$all
-||ml^$all
+||ml^$all,domain=~biblioreads.ml
 ||click^$all
 ||fit^$all
 ||life^$all
