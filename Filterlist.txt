@@ -34,7 +34,7 @@
 ||dance^$all
 ||hair^$all
 ||degree^$all
-||zone^$all,domain=~blahaj.zone
+||zone^$all,domain=~blahaj.zone|~froth.zone
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
