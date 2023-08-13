@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Aug-10
+# Updated: 2023-Aug-13
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -240,9 +240,3 @@ loseyourip.com$all
 
 # Phishing, per Bleeping Computer
 ||microsoft-office.zip$all
-
-#YouTube anti-adblocker (courtesy Emmjay at Wilders)
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true) 
