@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Aug-13
+# Updated: 2023-Aug-24
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -169,6 +169,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||intelserviceupdate.com$all 
 ||infoamanewonliag.online$all
 ||winwin.co.th^
+||zero2000.com$all
 
 # Typosquatting
 ||sniiffies.com^
@@ -210,7 +211,7 @@ pornofilmspremium.com$all
 # Twitter Phishing
 ||twitter-safeguard-protection.info^
 ||account-safety.com^
-||Security-steps.com^
+||security-steps.com^
 
 # Magniber, per 360
 ||casbin.info$all
