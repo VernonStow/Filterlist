@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Aug-28
+# Updated: 2023-Sep-09
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -33,7 +33,6 @@
 ||haus^$all
 ||dance^$all
 ||hair^$all
-||degree^$all
 ||zone^$all,domain=~blahaj.zone|~froth.zone
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
