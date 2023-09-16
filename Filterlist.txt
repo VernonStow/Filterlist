@@ -33,7 +33,8 @@
 ||haus^$all
 ||dance^$all
 ||hair^$all
-||zone^$all,domain=~blahaj.zone|~froth.zone
+||makeup^$all
+||zone^$all,domain=~blahaj.zone|~froth.zone|~itch.zone
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
