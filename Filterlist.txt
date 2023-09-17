@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Sep-12
+# Updated: 2023-Sep-17
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -114,6 +114,10 @@ cham-event.com$all
 ||tissatweb.us^
 # Crypto scam per Bleeping Computer
 ||freedomgiveaway.net
+||bitoxies.com 
+||moonexio.com 
+||altgetxio.com 
+||cratopex.com
 
 # Fake search engines
 ||puupnewsapp.com$all
