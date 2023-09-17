@@ -34,7 +34,7 @@
 ||dance^$all
 ||hair^$all
 ||makeup^$all
-||zone^$all,domain=~blahaj.zone|~froth.zone|~itch.zone
+||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
