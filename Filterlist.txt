@@ -247,6 +247,5 @@ loseyourip.com$all
 ||microsoft-office.zip$all
 
 # Malware, per Kaspersky https://is.gd/kY70DV
-||freedownloadmanager.org$all
 ||deb.fdmpkg.org$all
 
