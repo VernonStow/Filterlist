@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Sep-17
+# Updated: 2023-Sep-28
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -35,6 +35,7 @@
 ||hair^$all
 ||makeup^$all
 ||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone
+||rodeo^$all
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
@@ -184,10 +185,14 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||codevisualstudio.org^
 ||braves-browsers.org^
 ||ethersmine.com^
-# Malvertising downloads, per Securelist
+||advenced-ip-scanner.com$all
+
+# Malvertising downloads, per Securelist and Bleeping Computer
 ||download2392.mediafire.com$all
 ||blahder3dsoft.store$all
 ||github.com/sup6724/*
+||mynetfoldersip.cfd$all
+||mycasemanager.icu$all
 
 # Magnat reported by talosintelligence.com
 softstatistic.xyz$all
