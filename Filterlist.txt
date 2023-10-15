@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Oct-07
+# Updated: 2023-Oct-15
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -186,6 +186,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||braves-browsers.org^
 ||ethersmine.com^
 ||advenced-ip-scanner.com$all
+||wplsummit.com^
 
 # Malvertising downloads, per Securelist and Bleeping Computer
 ||download2392.mediafire.com$all
