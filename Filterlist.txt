@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Oct-29
+# Updated: 2023-Oct-30
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -163,9 +163,9 @@ goldprize.xyz$all
 kmip.net$all
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 1flchier.com$all
-#https://www.urlvoid.com/scan/111bjs.com/
+# https://www.urlvoid.com/scan/111bjs.com/
 ||111bjs.com$all
-#https://www.urlvoid.com/scan/proxfree.com/
+# https://www.urlvoid.com/scan/proxfree.com/
 ||proxfree.com$all
 ||expresswayautopr.com$all
 ||unpleasantconcrete.com$all
@@ -175,6 +175,8 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||infoamanewonliag.online$all
 ||winwin.co.th^
 ||zero2000.com$all
+||survey-smiles.com$all
+
 ! Fake Keepass sites
 ||ķeepass.info$all
 ||keeqass.info$all
