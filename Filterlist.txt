@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Nov-03
+# Updated: 2023-Nov-09
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -265,3 +265,13 @@ loseyourip.com$all
 # Malware, per Kaspersky https://is.gd/kY70DV
 ||deb.fdmpkg.org$all
 
+# Redline malware, per Bleeping Computer
+||argenferia.com$all
+||realvnc.pro$all
+||corporatecomf.online$all
+||cilrix-corp.pro$all
+||thecoopmodel.com$all
+||winscp-apps.online$all
+||wireshark-app.online$all
+||cilrix-corporate.online$all
+||workspace-app.online$all
