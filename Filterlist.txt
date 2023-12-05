@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2023-Nov-15
+# Updated: 2023-Dec-05
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -31,7 +31,7 @@
 ||cyou^$all,domain=~hammertime.cyou
 ||fyi^$all
 ||haus^$all
-||dance^$all
+||dance^$all,domain=~lambda.dance
 ||hair^$all
 ||makeup^$all
 ||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone
