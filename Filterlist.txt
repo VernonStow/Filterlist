@@ -18,7 +18,6 @@
 ||ga^$all
 ||tk^$all
 ||cm^$all,domain=~hill.cm|~nyer.cm
-||lol^$all,domain=~invidious.io.lol
 ||name^$all
 ||cyou^$all,domain=~hammertime.cyou
 ||fyi^$all
