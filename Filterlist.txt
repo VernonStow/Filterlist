@@ -23,7 +23,7 @@
 ||fyi^$all
 ||haus^$all
 ||hair^$all
-||makeup^$all
+||makeup^$all,domain=~bird.makeup
 ||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone
 ||rodeo^$all
 ||men^$all
