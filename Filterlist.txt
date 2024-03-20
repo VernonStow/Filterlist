@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-03-19
+# Updated: 2024-03-20
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -77,13 +77,14 @@ neogenomes.com
 ||coolrat.xyz$all
 ||download-cdn.com$all
 
-# Twitter spam
+# Twitter spam - see https://is.gd/qBiX4H
 ||brightii.com^
 ||bbrt.space^
 ||freelink.space^
 ||linkly.space^
 ||brry.org^
 ||tapice.net^
+||joinchannelnow.net^
 
 # Suspicious websites
 ||ecpms.net^
