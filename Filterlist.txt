@@ -1,16 +1,14 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-05-17
+# Updated: 2024-05-21
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 # Spam and malware TLDs (courtesy Spamhaus and SURBL)
-||surf^$all
 ||rest^$all
 ||monster^$all
-||icu^$all,domain=~lunar.icu
 ||cfd^$all
 ||top^$all
 ||gq^$all
@@ -18,20 +16,13 @@
 ||ga^$all
 ||tk^$all
 ||cm^$all,domain=~hill.cm|~nyer.cm
-||name^$all
-||cyou^$all,domain=~hammertime.cyou
 ||fyi^$all
-||haus^$all
-||hair^$all
-||makeup^$all,domain=~bird.makeup
 ||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone
-||rodeo^$all
-||men^$all
 ||support^$all
-||ml^$all,domain=~lemmy.ml
-||tattoo^$all
-||quest^$all
-
+||ooo^$all
+||loan^$all
+||wang^$all
+||fan^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
