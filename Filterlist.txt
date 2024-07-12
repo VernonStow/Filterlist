@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-07-08
+# Updated: 2024-07-12
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -10,7 +10,7 @@
 ||rest^$all
 ||monster^$all
 ||cfd^$all
-||top^$all
+||top^$all,denyallow=zorby.top
 ||gq^$all
 ||cn^$all
 ||ga^$all
@@ -23,6 +23,8 @@
 ||loan^$all
 ||wang^$all
 ||fan^$all
+||photos^$all
+||men^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
