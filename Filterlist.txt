@@ -10,7 +10,7 @@
 ||rest^$all
 ||monster^$all
 ||cfd^$all
-||top^$all,denyallow=zorby.top
+||top^$all
 ||gq^$all
 ||cn^$all
 ||ga^$all
