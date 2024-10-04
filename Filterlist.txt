@@ -1,31 +1,30 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-07-31
+# Updated: 2024-10-03
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
 # Subscription link: https://github.com/VernonStow/Filterlist/raw/master/Filterlist.txt
 
 # Spam and malware TLDs (courtesy Spamhaus and SURBL)
-||rest^$all
-||monster^$all
-||cfd^$all
 ||top^$all
 ||gq^$all
 ||cn^$all
 ||ga^$all
 ||tk^$all
 ||cm^$all,domain=~hill.cm|~nyer.cm
-||fyi^$all
-||zone^$all,denyallow=itch.zone,domain=~blahaj.zone|~froth.zone|~counterspace.zone
-||support^$all
 ||ooo^$all
 ||loan^$all
+||loans^$all
 ||wang^$all
-||fan^$all
-||photos^$all
-||men^$all
+||photo^$all
 ||bond^$all
+||pink^$all
+||miami^$all
+||auction^$all
+||forsale^$all
+||bid^$all
+||vip^$all
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
@@ -152,6 +151,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||zero2000.com$all
 ||survey-smiles.com$all
 ||nativlang.com$all
+||trial-uploader.store
 
 ! Fake Keepass sites
 ||ķeepass.info$all
