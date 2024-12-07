@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-11-22
+# Updated: 2024-12-06
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -273,3 +273,6 @@ loseyourip.com$all
 
 #Malware, per Mozilla
 ||y2meta.tube
+
+#Suspicious, per Adguard
+||seemyphone.com
