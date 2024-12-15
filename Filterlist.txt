@@ -92,8 +92,10 @@ neogenomes.com
 # BitCoin scam
 ||cham-event.com$all
 ||bitmaxi.org$all
+
 # Scam domain
 1800support.weebly.com$all
+
 # Scareware fake AV
 ||centralheat.me^
 ||yugava.xyz^
@@ -101,9 +103,12 @@ neogenomes.com
 ||smartopc.xyz^
 ! https://www.pcrisk.com/removal-guides/23744-notification-news-com-ads
 ||notification-news.com^
+||safesplitpro.com$all
+
 # Tech support scam per Bleeping Computer
 ||ondigitalocean.app^
 ||tissatweb.us^
+
 # Crypto scam per Bleeping Computer
 ||freedomgiveaway.net
 ||bitoxies.com 
@@ -271,14 +276,10 @@ loseyourip.com$all
 ||MetaChain.cash
 ||cryptos-satoshi.github.io
 
-#Malware, per Mozilla
+#Fake YouTube downloads
 ||y2meta.tube
-
-#Suspicious, per Adguard
-||seemyphone.com
-
-#Scareware
-||safesplitpro.com$all
+||/y2mate.lol
 
 #Possible phishing
+||seemyphone.com$all
 ||circleboom.com$all
