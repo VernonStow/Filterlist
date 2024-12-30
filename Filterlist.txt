@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-12-14
+# Updated: 2024-12-30
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -260,6 +260,7 @@ loseyourip.com$all
 
 #Parked domains
 ||stud-center.com
+||cslmotorcycleparts.com
 
 #Dating scam, per Bleeping Computer https://is.gd/jTCS1d
 ||gdahglobal.com^$all
