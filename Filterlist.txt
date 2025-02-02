@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2024-12-30
+# Updated: 2025-02-02
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -57,7 +57,7 @@ yotube.com
 digitalprivacyalert.org
 ||wizard101.com^
 ||Iyfbodn.com^
-||hard-configurator.com$all
+||textfonts.net^
 
 # Used to infect and redirect websites
 mcloudjs.com$all
@@ -95,6 +95,7 @@ neogenomes.com
 
 # Scam domain
 1800support.weebly.com$all
+||hard-configurator.com$all
 
 # Scareware fake AV
 ||centralheat.me^
