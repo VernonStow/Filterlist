@@ -17,17 +17,23 @@
 ||loan^$all
 ||loans^$all
 ||wang^$all
-||photo^$all
 ||bond^$all
 ||pink^$all
-||miami^$all
-||auction^$all
-||forsale^$all
+||boston^$all
+||ceo^$all
+||help^$all
 ||bid^$all
 ||vip^$all
+||locker^$all
+||pizza^$all
+||pictures^$all
+||auction^$all
+
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
 ||mov^$all
+# Bad similar TLD per Spamhaus
+||mobi^$all
 
 # Tracking
 ||trackvoluum.com^
