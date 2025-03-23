@@ -295,6 +295,8 @@ loseyourip.com$all
 #Fake file converters, per Bleeping Computer https://is.gd/8FJoJP
 ||docu-flex.com$all
 ||pdfixers.com$all
+||pdfdocx.com$all
+||pdf-online-tools.com$all
 
 #Possible phishing
 ||seemyphone.com$all
