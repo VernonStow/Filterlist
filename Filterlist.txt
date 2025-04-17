@@ -169,6 +169,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||survey-smiles.com$all
 ||nativlang.com$all
 ||trial-uploader.store
+||unknow.com$all
 
 ! Fake Keepass sites
 ||ķeepass.info$all
