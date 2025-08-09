@@ -285,6 +285,8 @@ loseyourip.com$all
 ||chuckmasterson.com
 ||seitan-ayoub.lol
 ||searxng.ch
+||dropcatch.com
+||gitloaf.com
 
 #Dating scam, per Bleeping Computer https://is.gd/jTCS1d
 ||gdahglobal.com^$all
@@ -325,3 +327,4 @@ loseyourip.com$all
 
 #Akira ransomware
 ||opmanager.pro$all
+
