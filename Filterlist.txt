@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2025-08-28
+# Updated: 2025-10-29
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -232,6 +232,7 @@ pornofilmspremium.com$all
 ||twitter-safeguard-protection.info^
 ||account-safety.com^
 ||security-steps.com^
+spotify.h0pz.top^
 
 # Magniber, per 360
 ||casbin.info$all
@@ -338,3 +339,4 @@ loseyourip.com$all
 ||panel-spectrum.net
 ||guildmerger.co/verify/eminem
 ||files.catbox.moe/snenal.bat 
+
