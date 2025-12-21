@@ -30,11 +30,12 @@
 ||one^$all,domain=~maxibestof.one
 ||academy^$all
 ||plus^$all
-||lgbt^$all,domain=~tech.lgbt
+||lgbt^$all,domain=~tech.lgbt|~mint.lgbt
 ||icu^$all
 ||cfd^$all
 ||lifestyle^$all
 ||cyou^$all
+||click^$all
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
@@ -340,6 +341,7 @@ loseyourip.com$all
 ||panel-spectrum.net
 ||guildmerger.co/verify/eminem
 ||files.catbox.moe/snenal.bat 
+
 
 
 
