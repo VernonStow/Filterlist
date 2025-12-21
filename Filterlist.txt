@@ -1,6 +1,6 @@
 [uBlock Origin; AdGuard]
 # Title: Grayware Blocklist
-# Updated: 2025-10-31
+# Updated: 2025-12-20
 # Expires: 1 month (update frequency)
 # Homepage: https://github.com/VernonStow/Filterlist
 # License: https://opensource.org/licenses/0BSD Zero-Clause BSD
@@ -8,15 +8,12 @@
 
 # Spam and malware TLDs (courtesy Spamhaus and SURBL)
 ||top^$all
-||gq^$all
 ||cn^$all
 ||cm^$all,domain=~hill.cm|~nyer.cm
 ||pizza^$all,domain=~tux.pizza
-||ooo^$all
 ||loan^$all
 ||loans^$all
 ||wang^$all
-||bond^$all
 ||pink^$all
 ||ceo^$all
 ||pictures^$all
@@ -26,16 +23,18 @@
 ||gdn^$all
 ||town^$all
 ||qpon^$all
-||photo^$all
 ||locker^$all
 ||pet^$all
 ||vip^$all
-||miami^$all
 ||bid^$all
 ||one^$all,domain=~maxibestof.one
 ||academy^$all
 ||plus^$all
 ||lgbt^$all,domain=~tech.lgbt
+||icu^$all
+||cfd^$all
+||lifestyle^$all
+||cyou^$all
 
 # High-risk TLDs per Ars Technica https://v.gd/riskyTLD
 ||zip^$all
@@ -177,6 +176,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com$all
 ||nativlang.com$all
 ||trial-uploader.store
 ||unknow.com$all
+||iyfhshsp.com$all
 
 ! Fake Keepass sites
 ||ķeepass.info$all
@@ -340,5 +340,7 @@ loseyourip.com$all
 ||panel-spectrum.net
 ||guildmerger.co/verify/eminem
 ||files.catbox.moe/snenal.bat 
+
+
 
 
